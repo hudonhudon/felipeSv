@@ -1,0 +1,15 @@
+
+[server]
+	#Login Timeout(s)
+	#Range: 0 ~ 1200
+	secs = 600
+	#Commands in whitelist can be executed before player login.
+	commandNames = []
+	#Note that you need to add JDBC-sqlite yourself if you want to use sqlite
+	storageProvider = "simplelogin:file"
+	#0,1,2,3 represents survival,creative,adventure,spectator
+	#Range: 0 ~ 3
+	defaultGameType = 0
+	#simplelogin:protect_coord is disabled by default, add to here to enable coord protect feature
+	plugins = ["simplelogin:auto_save", "simplelogin:resend_request", "simplelogin:restrict_game_type", "simplelogin:restrict_movement", "simplelogin:timeout"]
+

@@ -1,0 +1,23 @@
+{
+    "tile_processors": [
+        {
+            "type": "leveled",
+            "levels": [
+                {
+                    "level": 0,
+                    "type": "spawner",
+                    "target": "ispawner:spawner",
+                    "output": [
+                        {
+                            "elements": {
+                                "the_vault:bruiser_guardian": 70,
+                                "the_vault:arbalist_guardian": 30
+                            },
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

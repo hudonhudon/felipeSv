@@ -1,0 +1,124 @@
+{
+  "listings": [
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/leggings",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_soulflame/boots",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/leggings",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/phoenix_goldflame/boots",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/soulflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/soulflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/soulflame/leggings",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:gear/armor/soulflame/boots",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:gear/armor/goldflame/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/goldflame/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/goldflame/leggings",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:gear/armor/goldflame/boots",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:gear/armor/penguin/helmet",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/penguin/chestplate",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/armor/penguin/leggings",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:gear/armor/penguin/boots",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:gear/armor/scarecrow/helmet",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:gear/armor/scarecrow/chestplate",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:gear/armor/scarecrow/leggings",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:gear/armor/scarecrow/boots",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:gear/sword/nightfall",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:gear/sword/glorem_glipsum",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:gear/sword/soulflame",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/wand/soul",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/focus/soulorb",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:gear/axe/greathammer",
+      "cost": 4
+    }
+  ]
+}

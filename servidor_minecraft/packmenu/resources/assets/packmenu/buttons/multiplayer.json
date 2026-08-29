@@ -1,0 +1,19 @@
+{
+	"x": -100,
+	"y": 24,
+	"width": 200,
+	"height": 20,
+	"langKey": "menu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER",
+	"texture": "packmenu:textures/gui/vh_button_large.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 200,
+	"texHeight": 40,
+	"fontColor": -1,
+	"hoverFontColor": -1,
+	"dropShadow": false
+}

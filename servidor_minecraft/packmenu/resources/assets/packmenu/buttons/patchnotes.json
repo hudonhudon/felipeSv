@@ -1,0 +1,19 @@
+{
+	"x": 2,
+	"y": 48,
+	"width": 98,
+	"height": 20,
+	"langKey": "packmenu.patchnotes",
+	"action": "OPEN_URL",
+	"data": "https://vaulthunters.gg/patch-notes",
+	"texture": "packmenu:textures/gui/vh_button_small.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 98,
+	"texHeight": 40,
+	"fontColor": -1,
+	"hoverFontColor": -1,
+	"dropShadow": false
+}

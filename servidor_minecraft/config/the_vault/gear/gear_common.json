@@ -1,0 +1,50 @@
+{
+  "legendaryModifierChance": 0.03,
+  "craftingPotentialRanges": {
+    "SCRAPPY": {
+      "min": 48,
+      "max": 80
+    },
+    "COMMON": {
+      "min": 70,
+      "max": 96
+    },
+    "RARE": {
+      "min": 96,
+      "max": 128
+    },
+    "EPIC": {
+      "min": 128,
+      "max": 172
+    },
+    "OMEGA": {
+      "min": 160,
+      "max": 280
+    }
+  },
+  "swapCooldown": 400,
+  "swapItems": {
+    "FEET": [
+      "the_vault:boots"
+    ],
+    "CHEST": [
+      "the_vault:chestplate",
+      "minecraft:elytra"
+    ],
+    "LEGS": [
+      "the_vault:leggings"
+    ],
+    "OFFHAND": [
+      "the_vault:focus",
+      "the_vault:wand",
+      "the_vault:shield",
+      "the_vault:idol_benevolent",
+      "the_vault:idol_malevolence",
+      "the_vault:idol_timekeeper",
+      "the_vault:idol_omniscient"
+    ],
+    "HEAD": [
+      "the_vault:helmet"
+    ]
+  }
+}

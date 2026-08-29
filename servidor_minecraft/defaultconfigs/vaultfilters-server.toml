@@ -1,0 +1,34 @@
+["Vault Filters Server Config"]
+	#
+	#The research filters will be locked behind +
+	#Leave blank for no lock (the default)
+	"Research Lock" = "Vault Filters"
+	#
+	#Enable compatibility for list and attribute filters inside Modular Router modules
+	#Default:true
+	"Modular Routers Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside Refined Storage exporters and grid filters
+	#Default:true
+	"Refined Storage Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside sophisticated backpacks upgrades
+	#Default:true
+	"Backpacks Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside AE2 exporter buses and terminal filters
+	#Default:true
+	"AE2 Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside Tom's filtered inventory connector
+	#Default:true
+	"Tom's Simple Storage Compatibility" = true
+	#
+	#Enable compatibility for list and attribute filters inside LaserIO's card filters
+	#Default:true
+	"LaserIO Compatibility" = true
+	#
+	#Delete old cache entries from items when they're filtered through
+	#Default:false
+	"Old cache data fixer" = false
+

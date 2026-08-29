@@ -1,0 +1,71 @@
+We have an official Vault Hunters Discord server! https://discord.gg/vaulthunters
+If you play on an official server, you can view yourself on the Armory (https://vaulthunters.gg/armory/)
+The idea of Vault Hunters was born a long time ago and has had some pre-decessors. Ever heard of HermitQuest and Funcraft?
+Vault Hunters has already been around for over 6 years! Time flies when you're having fun.. Time to eat a kiwi
+In the earlier versions of Vault Hunters, Vaults didn't have a theme. Every room was different, basically like how a Chaos Vault is nowadays
+In the first release of Vault Hunters, it was necessary to "finish" the Vanilla game of Minecraft first before you could start your Vault Hunters adventure. The Vault altar required items you can only acquire in The End
+Many food items have gone bad over the years of developing Vault Hunters, like the chocolate bar.
+The very first release of Vault Hunters had brutal crystal requirements. 35k cobblestone? Easy. 78k Clay? Sure. 115k carrots. And as icing on the cake... 250k cakes
+The accessibility setting "notify missing backpack" was designed purely for people who kept forgetting them when going into The Vault
+Vault Royale is a game mode that randomizes the vault and your load-out each time. Perfect if you want a change of pace!
+You can change your difficulty setting at any time. Gaming should never be a chore, we strive for maximum fun!
+Never want to lose your items from the vault again? Casual mode might be your gameplay!
+Vault hunters 3rd edition has over 5 million downloads on CurseForge!
+Looking to host your own Vault Hunters server for you and your friends? BisectHosting might be the company for you! BisectHosting is Vault Hunters official Minecraft Server Host and you can receive 25% off your order!
+Ever heard of "Fools Gold"? You might want to double check some shiny items the next time you are in a cove room.
+Vault Hunters supports SKYBLOCK! Select "skyvaults" in the world creation and you will spawn on a designated skyblock island, where you collect resources in a different type of vault
+Vault Hunters supports a build-in event for server-wide bingo's!
+Did you know we forgot about an oversight on how to make infinite lava using modular routers? Pro tip: It comes from the bucket
+Not getting hit by mobs means you survive inside the vaults longer.
+Hugging a cactus is considered a prickleble offense.
+Vaults get progressively harder, so upgrading your weapons, armor, and tools is crucial
+Learn the layout and traps of vaults to avoid unnecessary deaths
+When playing multiplayer, coordinate with friends to tackle difficult vaults
+Abilities that increase your damage output, critical hit chance, or attack speed help you clear vaults faster
+Some abilities might help you detect hidden chests, increase loot drops or reduce cooldowns
+After level 50, the chance of ores and coins being jackpot in elixir vaults is massively decreased, some might say nearly impossible
+Unlocking a mod in a mod category makes the other mods more expensive, as well as the other categories
+You can make a tool that never breaks in the Overwold by adding 'vanilla immortality' to 100%
+Remember, the Vault Hunters quest system gives you FREE useful items!
+Curious what the new Vault Hunters update will bring? If you become a Patreon on patreon.com/vaulthunters you receive the latest news on updates freshly baked before the public does.
+You can easily describe Vault Hunters as Minecraft meets roguelike dungeons meets Diablo
+Need a new challenge? Try and design a build that doesn't use a common taken ability like dash or heal
+Does IRL get in the way when running a 25 minute vault? You can decrease or increase the vault timer in the Vault Hunters Settings!
+Vault Hunters was rated the SECOND BEST modpack in 2024 by thegamer.com
+Vault Hunters is in constant development and has received 4 MAJOR updates in 2025 alone!
+Update 20 was the most popular out of all updates in 2025, adding 3 new rooms to the vault, chaotic gear, an unboxing station, 8(!) new uniques AND a huge overhaul to dungeons!
+During Christmas, the festive theme has a higher chance of being your Vault Theme when running a vault!
+Don't like the clutter of the quest book in your inventory? Throw it out and access the quest system with a keybind!
+Want to challenge your friends? Run a PVP vault! The winner receives a trophy for bragging rights
+A Key Ring can store all your treasure room keys and automatically pick the right one when you click a treasure door
+Every vault theme has its perks and spawns a specific set of mobs designed for that theme
+Echo ore spawns more abundantly in the void theme
+Need more gems? Consider running a plunderers vault! It spawns up to 25% more ores
+In a chaos vault, every room has a different theme. This can be quite useful if you need a certain mob type that spawns abundantly in one of the themes
+Killing dwellers can be a challenging task when running a Bingo Objective
+Need an additional challenge for a vault? Add a sigil! It increases the difficulty in objective
+Vault Hunters is full of easter eggs. Have you ever noticed what will happen if you break that pretty flower in the hallway of the Candoria theme?
+Bringing cakes into a Cake Vault does not work. Trust me. We have tried this
+Vault Hunters is great with friends! Assist each other in Vaults or compete against each other in PVP vaults
+The game does not end after having collected all artifacts and beating The Herald! Overlevel and unlock prestige for even more POWER!
+Dungeons are protected by a Dungeon Boss deep inside, protecting an Imbuement Altar or a Globe that reveals rooms in The Vault
+You can spectate your friends' Vault by using a Spectator Terminal
+A compass always shows true North, except the Vault Compass! The needle will point to where you want it to point. This can be the vault exit, the nearest challenge room or dungeon
+Want to dive into a vault instead of walking into one? Consider placing a horizontal portal!
+In Update 19 we added 10 new abilities, like Arcane, and 2 new talents!
+New to playing Vault Hunters? Consider starting on Easy and work your way up!
+Vault Hunters has multiple difficulty levels to fit your needs 
+In update 18 we added 33 new Gear Models!
+Vault Hunters has an infinitely scaled Greed mode
+You need all 25 artifacts and place them in the right order to beat the final boss - the Herald
+You can reroll artifacts by burning them (yep, for real!)
+Don't like the look of a gear piece? Change its model in the Transmogrification Table!
+Add inscriptions to your crystal to loot an omega or challenge room of your choice
+You can create a research party so you can interact with mods your team member has unlocked
+You need 51.3 mining speed on a Vault Tool with picking (with ability haste III) to instantly mine ores in The Vault
+Equipping a magnet can you let auto-void junk items from The Vault (toggle-able)
+Craft a spirit extractor to retrieve your items after you have died in The Vault
+A shield in Vault Hunters does not block in the same way as a normal Vanilla shield. It has a block chance percentage or another perk
+Use Dash with an Elytra or the Wings Trinket instead of rockets!
+Get the Twerker Talent to speed up crop growth
+Test out how strong your weapons and abilities are by crafting Dummy's

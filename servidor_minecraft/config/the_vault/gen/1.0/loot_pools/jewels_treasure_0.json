@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "item": {
+      "id": "the_vault:jewel",
+      "nbt": {
+        "the_vault:gear_roll_type_pool": "jewel_treasure"
+      }
+    }
+  }
+]

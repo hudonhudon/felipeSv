@@ -1,0 +1,146 @@
+{
+  "challenges": {
+    "bingo_standard": {
+      "objective": {
+        "objective_probability": 1.0,
+        "width": 0,
+        "height": 0,
+        "type": "bingo"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "scavenger_standard": {
+      "objective": {
+        "objective_probability": 1.0,
+        "type": "scavenger"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "cake_standard": {
+      "objective": {
+        "objective_probability": 1.0,
+        "type": "cake"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "scavenger_bingo": {
+      "objective": {
+        "objective_probability": 1.0,
+        "width": 0,
+        "height": 0,
+        "type": "scavenger_bingo"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "monolith_standard": {
+      "objective": {
+        "objective_probability": 1.0,
+        "type": "monolith"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "elixir_standard": {
+      "objective": {
+        "objective_probability": 1.0,
+        "type": "elixir"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": false
+    },
+    "bingo_exhausted": {
+      "objective": {
+        "objective_probability": 1.0,
+        "width": 0,
+        "height": 0,
+        "type": "bingo"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": true
+    },
+    "cake_exhausted": {
+      "objective": {
+        "objective_probability": 1.0,
+        "type": "cake"
+      },
+      "time": {
+        "id": "the_vault:default",
+        "type": "pool"
+      },
+      "modifiers": {
+        "list": [],
+        "random_modifiers": true,
+        "clarity": false,
+        "type": "default"
+      },
+      "exhausted": true
+    }
+  }
+}

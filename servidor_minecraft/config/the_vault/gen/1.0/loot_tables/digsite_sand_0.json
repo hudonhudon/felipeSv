@@ -1,0 +1,880 @@
+{
+  "entries": [
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 0,
+        "max": 1
+      },
+      "pool": [
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 980,
+              "item": {
+                "id": "minecraft:air",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 50,
+              "item": {
+                "id": "the_vault:vault_catalyst_fragment",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:bounty_pearl",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "the_vault:mod_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 100,
+              "item": {
+                "id": "the_vault:vault_bronze",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            },
+            {
+              "weight": 100,
+              "item": {
+                "id": "the_vault:chromatic_iron_ingot",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 3
+                }
+              }
+            },
+            {
+              "weight": 80,
+              "item": {
+                "id": "the_vault:silver_scrap",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            },
+            {
+              "weight": 120,
+              "item": {
+                "id": "the_vault:soul_shard",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 12
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:gemstone",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 20,
+              "item": {
+                "id": "the_vault:dreamstone",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:key_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 0,
+        "max": 1
+      },
+      "pool": [
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 14040,
+              "item": {
+                "id": "minecraft:air",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:vault_catalyst_infused",
+                "nbt": {
+                  "pool": "the_vault:treasure_chest"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:focus",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "gear_digsite"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 8,
+              "item": {
+                "id": "the_vault:jewel_pouch",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 1,
+        "max": 1
+      },
+      "pool": [
+        {
+          "weight": 17999,
+          "item": {
+            "id": "minecraft:air",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:crystal_double_blade",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:honey_stick",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:inflated_justice",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:sword",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:iskallibur",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:butcher_axe",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:axe",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:starforge",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:jester",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:stormcrown",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:helmet",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:warbound_helmet",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:annmari",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:castle",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:crystalplate",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:frozen_throne",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:sweetheart",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:chestplate",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:vitalis",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:crashguards",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:leggings",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:swarmwalkers",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:frostguards",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:boots",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:pacifist_sandals",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:gladiator_buckler",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:grim",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:ivy",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:pestilence_wall",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:frostwarden",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:focus",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:ender_rings",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:focus",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:frozen_orb",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:focus",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:echoflare",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:baguette",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:chainlash",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:wand",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:inferno_reach",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:shield",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:broodmother",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:jewel",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:kaleidoscope",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:jewel",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:manabloom",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:jewel",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:pax",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:jewel",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:frozen_heart",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:magnet",
+                "nbt": {
+                  "the_vault:gear_unique_pool": "the_vault:quickstone",
+                  "the_vault:gear_roll_type": "Unique"
+                },
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

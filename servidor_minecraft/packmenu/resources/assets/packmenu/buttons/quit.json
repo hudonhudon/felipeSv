@@ -1,0 +1,18 @@
+{
+	"x": 2,
+	"y": 108,
+	"width": 98,
+	"height": 20,
+	"langKey": "menu.quit",
+	"action": "QUIT",
+	"texture": "packmenu:textures/gui/vh_button_small.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 98,
+	"texHeight": 40,
+	"fontColor": -1,
+	"hoverFontColor": 14294283,
+	"dropShadow": false
+}

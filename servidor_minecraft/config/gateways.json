@@ -1,0 +1,10 @@
+{
+  "maxCluster": 24,
+  "gateBedrock": false,
+  "allowDimensions": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "blacklistBlocks": []
+}

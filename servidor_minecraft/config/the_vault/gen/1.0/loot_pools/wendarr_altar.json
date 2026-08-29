@@ -1,0 +1,17 @@
+[
+  {
+    "weight": 2,
+    "item": {
+      "id": "the_vault:idol_timekeeper",
+      "nbt": {
+        "the_vault:gear_roll_type_pool": "altar"
+      }
+    }
+  },
+  {
+    "weight": 1,
+    "item": {
+      "id": "the_vault:altar_chest_scroll"
+    }
+  }
+]
